@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+	font-family: Tahoma;
+	
+}
+
+li {
+	color: black;
+	font-family: Tahoma;
+	display: inline;
+	margin-right: 20px;
+}
+
+a:link {
+	color: #4B74C4;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #4B74C4;
+}
+
+a:hover {
+	color: #4141AC;
+}
+
+a:active {
+	color: blue;
+}
