@@ -1,0 +1,48 @@
+body {
+	background-color: black;
+    background-image: url("finalfinal.png");
+	font-family: Tahoma;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+	margin: 100px auto 100px auto;
+}
+
+p {
+	text-align: center;
+}
+
+a:link {
+	color: #4B74C4;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #4B74C4;
+}
+
+a:hover {
+	color: #4141AC;
+}
+
+a:active {
+	color: blue;
+}
+
+
+
+#list2 {
+	color: black;
+	border: 10px solid white;
+	border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+	background-color: white;
+}
+
+#mainlist {
+	display: inline;
+	margin-right: 20px;
+}
