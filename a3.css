@@ -1,0 +1,34 @@
+a:link {
+	color: #4B74C4;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #4B74C4;
+}
+
+a:hover {
+	color: #4141AC;
+}
+
+a:active {
+	color: blue;
+}
+
+li {
+	color: black;
+	font-family: Tahoma;
+	display: inline;
+	margin-right: 20px;
+}
+
+h1 {
+	text-align: center;
+	font-family: Tahoma;
+	font-size: 50px;
+	color: #E858E3;
+}
+
+body {
+    background-image: url("oops.jpg");
+}
